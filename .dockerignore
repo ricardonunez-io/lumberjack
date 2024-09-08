@@ -1,0 +1,12 @@
+.env
+.env.*
+*.env
+.git
+.gitignore
+main
+*.exe
+*.test
+*.out
+.DS_Store
+.idea/
+.vscode/
